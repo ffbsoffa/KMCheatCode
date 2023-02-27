@@ -1,5 +1,7 @@
 # KMCheatCode
 
+![release](https://badgen.net/github/release/ffbsoffa/KMCheatCode)
+![license](https://badgen.net/github/license/ffbsoffa/KMCheatCode)
 
 This simple macro is based on Switch/Case action to assign several macros to one code. The code itself is prompted via form, done in HTML/CSS and JavaScript. To execute – press 'Return' or 'Enter', to cancel prompting - press 'Escape'.
 If you mistaken, the macros will be ended with the 'glass breaking' sound.
