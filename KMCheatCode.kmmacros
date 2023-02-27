@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>CreationDate</key>
+		<real>667673514.93459702</real>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>ActionColor</key>
+						<string>Orange</string>
+						<key>ActionUID</key>
+						<integer>68558</integer>
+						<key>MacroActionType</key>
+						<string>Comment</string>
+						<key>StyledText</key>
+						<data>
+						cnRmZAAAAAADAAAAAgAAAAcAAABU
+						WFQucnRmAQAAAC5tBQAAKwAAAAEA
+						AABlBQAAe1xydGYxXGFuc2lcYW5z
+						aWNwZzEyNTFcY29jb2FydGYyNzA4
+						Clxjb2NvYXRleHRzY2FsaW5nMFxj
+						b2NvYXBsYXRmb3JtMHtcZm9udHRi
+						bFxmMFxmc3dpc3NcZmNoYXJzZXQw
+						IEhlbHZldGljYTtcZjFcZm5pbFxm
+						Y2hhcnNldDAgTWVubG8tUmVndWxh
+						cjtcZjJcZnN3aXNzXGZjaGFyc2V0
+						MCBIZWx2ZXRpY2EtT2JsaXF1ZTsK
+						fQp7XGNvbG9ydGJsO1xyZWQyNTVc
+						Z3JlZW4yNTVcYmx1ZTI1NTtccmVk
+						MFxncmVlbjBcYmx1ZTA7XHJlZDIw
+						MlxncmVlbjIwMlxibHVlMjAyO1xy
+						ZWQyM1xncmVlbjIzXGJsdWUyMzsK
+						fQp7XCpcZXhwYW5kZWRjb2xvcnRi
+						bDs7XGNzc3JnYlxjMFxjMFxjMFxj
+						ODQ3MDZcY25hbWUgY29udHJvbFRl
+						eHRDb2xvcjtcY3NzcmdiXGM4MzEz
+						N1xjODMxMzdcYzgzMTM3O1xjc3Ny
+						Z2JcYzExNzY1XGMxMTc2NVxjMTE3
+						NjU7Cn0KXHBhcmRcdHg1NjBcdHgx
+						MTIwXHR4MTY4MFx0eDIyNDBcdHgy
+						ODAwXHR4MzM2MFx0eDM5MjBcdHg0
+						NDgwXHR4NTA0MFx0eDU2MDBcdHg2
+						MTYwXHR4NjcyMFxwYXJkaXJuYXR1
+						cmFsXHBhcnRpZ2h0ZW5mYWN0b3Iw
+						CgpcZjBcZnMyNiBcY2YyIFwKXApU
+						aGlzIHNpbXBsZSBtYWNybyBpcyBi
+						YXNlZCBvbiBTd2l0Y2gvQ2FzZSBh
+						Y3Rpb24gdG8gYXNzaWduIHNldmVy
+						YWwgbWFjcm9zIHRvIG9uZSBjb2Rl
+						LiBUaGUgY29kZSBpdHNlbGYgaXMg
+						cHJvbXB0ZWQgdmlhIGZvcm0sIGRv
+						bmUgaW4gSFRNTC9DU1MgYW5kIEph
+						dmFTY3JpcHQuIFRvIGV4ZWN1dGUg
+						XCc5NiBwcmVzcyAnUmV0dXJuJyBv
+						ciAnRW50ZXInLCB0byBjYW5jZWwg
+						cHJvbXB0aW5nIC0gcHJlc3MgJ0Vz
+						Y2FwZScuXApJZiB5b3UgbWlzdGFr
+						ZW4sIHRoZSBtYWNyb3Mgd2lsbCBi
+						ZSBlbmRlZCB3aXRoIHRoZSAnZ2xh
+						c3MgYnJlYWtpbmcnIHNvdW5kLlwK
+						XApTb3VuZHMgc2hvdWxkIGJlIGlu
+						c3RhbGxlZCB0byBwYXRoOiAKXGYx
+						XGZzMjQgXGNmMyBcY2I0IFxleHBu
+						ZDBcZXhwbmR0dzBca2VybmluZzAK
+						fi9MaWJyYXJ5L1NvdW5kcy8KXGYw
+						XGZzMjYgXGNmMiBcY2IxIFxrZXJu
+						aW5nMVxleHBuZDBcZXhwbmR0dzAg
+						XApcCkV4YW1wbGU6IApcZjJcaSBj
+						b2RlICcwMDAxJyBvcGVucyB0aGUg
+						J0tleWJvYXJkIE1hZXN0cm8nIHNp
+						dGUgYW5kIE1haWwgYXBwLlwKClxm
+						MFxpMCBcClRoaXMgaXMgYSB2ZXJz
+						aW9uIDAuMWEgb2YgbWFjcm9zLiBG
+						b3IgdXBkYXRlcyAtIGNoZWNrIHRo
+						ZSByZXBvc2l0b3J5IGF0IEdpdEh1
+						YiBhbmQgdG9waWMgYXQgZm9ydW0u
+						a2V5Ym9hcmRtYWVzdHJvLmNvbS5c
+						Ck1vcmUgYWJvdXQ6IHtcZmllbGR7
+						XCpcZmxkaW5zdHtIWVBFUkxJTksg
+						Imh0dHBzOi8vZ2l0LmZmYnNvZmZh
+						Lm9yZy9wcm9qZWN0cy9rbWNoZWF0
+						In19e1xmbGRyc2x0IGh0dHBzOi8v
+						Z2l0LmZmYnNvZmZhLm9yZy9wcm9q
+						ZWN0cy9rbWNoZWF0fX0gXApcClwK
+						fQEAAAAjAAAAAQAAAAcAAABUWFQu
+						cnRmEAAAAHt7/GO2AQAAAAAAAAAA
+						AAA=
+						</data>
+						<key>Title</key>
+						<string>About this macros</string>
+					</dict>
+					<dict>
+						<key>ActionName</key>
+						<string>Clear SOCCode</string>
+						<key>ActionUID</key>
+						<integer>68559</integer>
+						<key>MacroActionType</key>
+						<string>SetVariableToText</string>
+						<key>Text</key>
+						<string></string>
+						<key>Variable</key>
+						<string>SOCCode</string>
+					</dict>
+					<dict>
+						<key>ActionUID</key>
+						<integer>68561</integer>
+						<key>DeviceID</key>
+						<string>SOUNDEFFECTS</string>
+						<key>MacroActionType</key>
+						<string>PlaySound</string>
+						<key>Path</key>
+						<string>~/Library/Sounds/KMCCinit.wav</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+						<key>Volume</key>
+						<integer>60</integer>
+					</dict>
+					<dict>
+						<key>ActionUID</key>
+						<integer>68562</integer>
+						<key>Floating</key>
+						<true/>
+						<key>HasTitle</key>
+						<false/>
+						<key>MacroActionType</key>
+						<string>CustomPrompt</string>
+						<key>Text</key>
+						<string>&lt;!DOCTYPE html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+	&lt;meta charset="utf-8" /&gt;
+	&lt;title&gt;KMCheatCode&lt;/title&gt;
+	&lt;style type="text/css"&gt;
+
+body {
+	background-color: #F0F0F4;
+	font: 11px system-ui;
+	color: #5A698B;
+	width: 420px;
+	margin: 0;
+}
+
+form {
+	font: bold 14px "Lucida Grande", serif;
+}
+
+#title {
+	width: 100%;
+	color: #5A698B;
+	padding-top: 12px;
+	padding-bottom: 4px;
+	padding-left: 8px;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	text-align: left;
+}
+
+form {
+	width: 100%;
+}
+
+.col1 {
+	text-align: right;
+	width: 105px;
+	padding-top: 5px;
+	height: 31px;
+	margin: 0;
+	float: left;
+}
+
+.message {
+	height: 75px;
+}
+
+.col2 {
+	width: 310px;
+	height: 31px;
+	display: block;
+	float: left;
+	margin: 0;
+}
+
+div.row {
+	clear: both;
+	width: 100%;
+}
+
+.submit {
+	height: 29px;
+	width: 100%;
+	padding-top: 5px;
+	clear: both;
+} 
+
+.input {
+	width: 243px;
+	background-color: #fff;
+	color: #5A698B;
+	margin: 4px 0 5px 5px;
+	border: 1px solid #8595B2;
+	font: 16px system-ui;
+}
+
+.center {
+	text-align: center;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+	&lt;/style&gt; 
+&lt;/head&gt;
+&lt;body data-kmwindow="SCREEN(Main,Left, 0.5%),SCREEN(Main,Top, 2%),258,30"&gt;
+&lt;form id="myform" action="#" method="post"&gt;	&lt;div class="row"&gt;
+		&lt;span class="col2"&gt;
+      &lt;input name="SOCCode" class="input" type="number" id="name" autofocus /&gt;
+   &lt;/span&gt; 
+	&lt;/div&gt;
+&lt;/form&gt;
+&lt;script&gt;
+function submitMacro() {
+	window.KeyboardMaestro.Submit();
+}
+function cancelMacro() {
+    window.KeyboardMaestro.Cancel();
+  }
+window.addEventListener('keydown', (e) =&gt; {
+    if (e.key === 'Enter') {
+      submitMacro();
+    }
+    if (e.key === 'Escape') {
+      cancelMacro();
+    }
+ });
+&lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+						<key>UseText</key>
+						<true/>
+					</dict>
+					<dict>
+						<key>ActionUID</key>
+						<integer>68563</integer>
+						<key>CaseEntries</key>
+						<array>
+							<dict>
+								<key>Actions</key>
+								<array>
+									<dict>
+										<key>ActionUID</key>
+										<integer>68953</integer>
+										<key>IsDefaultApplication</key>
+										<true/>
+										<key>MacroActionType</key>
+										<string>OpenURL</string>
+										<key>TimeOutAbortsMacro</key>
+										<true/>
+										<key>URL</key>
+										<string>https://www.keyboardmaestro.com/</string>
+									</dict>
+									<dict>
+										<key>ActionUID</key>
+										<integer>68955</integer>
+										<key>AllWindows</key>
+										<true/>
+										<key>AlreadyActivatedActionType</key>
+										<string>Normal</string>
+										<key>Application</key>
+										<dict>
+											<key>BundleIdentifier</key>
+											<string>com.apple.mail</string>
+											<key>Name</key>
+											<string>Mail</string>
+											<key>NewFile</key>
+											<string>/System/Applications/Mail.app</string>
+										</dict>
+										<key>MacroActionType</key>
+										<string>ActivateApplication</string>
+										<key>ReopenWindows</key>
+										<false/>
+										<key>TimeOutAbortsMacro</key>
+										<true/>
+									</dict>
+									<dict>
+										<key>Action</key>
+										<string>CancelSpecificMacro</string>
+										<key>ActionUID</key>
+										<integer>68567</integer>
+										<key>Instance</key>
+										<string>THIS</string>
+										<key>MacroActionType</key>
+										<string>Cancel</string>
+									</dict>
+								</array>
+								<key>ConditionType</key>
+								<string>Contains</string>
+								<key>TestValue</key>
+								<string>0001</string>
+							</dict>
+							<dict>
+								<key>Actions</key>
+								<array>
+									<dict>
+										<key>Action</key>
+										<string>CancelSpecificMacro</string>
+										<key>ActionUID</key>
+										<integer>68570</integer>
+										<key>Instance</key>
+										<string>THIS</string>
+										<key>MacroActionType</key>
+										<string>Cancel</string>
+									</dict>
+								</array>
+								<key>ConditionType</key>
+								<string>Contains</string>
+								<key>TestValue</key>
+								<string>0002</string>
+							</dict>
+							<dict>
+								<key>Actions</key>
+								<array>
+									<dict>
+										<key>Action</key>
+										<string>CancelSpecificMacro</string>
+										<key>ActionUID</key>
+										<integer>68575</integer>
+										<key>Instance</key>
+										<string>THIS</string>
+										<key>MacroActionType</key>
+										<string>Cancel</string>
+									</dict>
+								</array>
+								<key>ConditionType</key>
+								<string>Contains</string>
+								<key>TestValue</key>
+								<string>0003</string>
+							</dict>
+						</array>
+						<key>MacroActionType</key>
+						<string>Switch</string>
+						<key>Source</key>
+						<string>Variable</string>
+						<key>Variable</key>
+						<string>SOCCode</string>
+					</dict>
+					<dict>
+						<key>ActionUID</key>
+						<integer>68576</integer>
+						<key>Conditions</key>
+						<dict>
+							<key>ConditionList</key>
+							<array>
+								<dict>
+									<key>ConditionType</key>
+									<string>Key</string>
+									<key>KeyCode</key>
+									<integer>53</integer>
+									<key>KeyConditionType</key>
+									<string>Down</string>
+								</dict>
+							</array>
+							<key>ConditionListMatch</key>
+							<string>All</string>
+						</dict>
+						<key>ElseActions</key>
+						<array>
+							<dict>
+								<key>ActionUID</key>
+								<integer>68577</integer>
+								<key>DeviceID</key>
+								<string>SOUNDEFFECTS</string>
+								<key>MacroActionType</key>
+								<string>PlaySound</string>
+								<key>Path</key>
+								<string>~/Library/Sounds/KMCCFail.wav</string>
+								<key>TimeOutAbortsMacro</key>
+								<true/>
+								<key>Volume</key>
+								<integer>31</integer>
+							</dict>
+						</array>
+						<key>MacroActionType</key>
+						<string>IfThenElse</string>
+						<key>ThenActions</key>
+						<array>
+							<dict>
+								<key>Action</key>
+								<string>CancelThisMacro</string>
+								<key>ActionUID</key>
+								<integer>68952</integer>
+								<key>MacroActionType</key>
+								<string>Cancel</string>
+							</dict>
+						</array>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+					</dict>
+				</array>
+				<key>CreationDate</key>
+				<real>699181519.27563095</real>
+				<key>ModificationDate</key>
+				<real>699183997.99018502</real>
+				<key>Name</key>
+				<string>KMCheatCode</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>FireType</key>
+						<string>Pressed</string>
+						<key>KeyCode</key>
+						<integer>67</integer>
+						<key>MacroTriggerType</key>
+						<string>HotKey</string>
+						<key>Modifiers</key>
+						<integer>0</integer>
+					</dict>
+				</array>
+				<key>UID</key>
+				<string>2058CC60-33BA-413E-9353-9A902FB5D52E</string>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>key numbers</string>
+		<key>ToggleMacroUID</key>
+		<string>A832B822-7DD3-4EF5-A059-299DFC1A15DC</string>
+		<key>UID</key>
+		<string>14012F83-AED4-4EC8-9029-42AFCBFE2F5B</string>
+	</dict>
+</array>
+</plist>
