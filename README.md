@@ -5,6 +5,6 @@ This simple macro is based on Switch/Case action to assign several macros to one
 If you mistaken, the macros will be ended with the 'glass breaking' sound.
 
 **How to install?**
-    Download the zip file from GitHub Repository or Keyboard Maestro Forum.
-    Copy sound files (‘KMCCinit.wav’ and ‘KMCCFail.wav’) to path: ~/Library/Sounds/
-    Import the ‘KMCheatCode.kmmacros’ by double-clicking the file.
+1. Download the zip file from GitHub Repository or Keyboard Maestro Forum.
+2. Copy sound files (‘KMCCinit.wav’ and ‘KMCCFail.wav’) to path: ~/Library/Sounds/
+3. Import the ‘KMCheatCode.kmmacros’ by double-clicking the file.
